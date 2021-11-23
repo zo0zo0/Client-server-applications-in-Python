@@ -1,0 +1,11 @@
+{
+    "orders": [
+        {
+            "товар (item)": "Lenovo Book",
+            "количество (quantity)": 50,
+            "цена (price)": 23000,
+            "покупатель (buyer)": "Stanislav D.",
+            "дата (date)": "22.10.2020"
+        }
+    ]
+}
